@@ -31,9 +31,8 @@
 </p>
 
 ### :zap: Actividad reciente
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--START_SECTION:start-->
+<!--END_SECTION:last_update-->
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/maicolacunna187@gmail.com) 

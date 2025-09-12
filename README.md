@@ -32,11 +32,11 @@
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [maicolacunna187/miPrimerRepo](https://github.com/maicolacunna187/miPrimerRepo)<br>
-2. ⬆️ Pushed 1 commit(s) to [maicolacunna187/maicolacunna187.github.io](https://github.com/maicolacunna187/maicolacunna187.github.io)<br>
-3. ⬆️ Pushed 1 commit(s) to [maicolacunna187/maicolacunna187.github.io](https://github.com/maicolacunna187/maicolacunna187.github.io)<br>
-4. ⬆️ Pushed 1 commit(s) to [maicolacunna187/maicolacunna187.github.io](https://github.com/maicolacunna187/maicolacunna187.github.io)<br>
-5. ⬆️ Pushed 1 commit(s) to [maicolacunna187/maicolacunna187.github.io](https://github.com/maicolacunna187/maicolacunna187.github.io)<br>
+1. ✌️ Released [v0.1.0](https://github.com/maicolacunna187/tercerRepo/releases/tag/v0.1.0) in [maicolacunna187/tercerRepo](https://github.com/maicolacunna187/tercerRepo)<br>
+2. ⬆️ Pushed 1 commit(s) to [maicolacunna187/tercerRepo](https://github.com/maicolacunna187/tercerRepo)<br>
+3. ⬆️ Pushed 1 commit(s) to [maicolacunna187/tercerRepo](https://github.com/maicolacunna187/tercerRepo)<br>
+4. ⬆️ Pushed 1 commit(s) to [maicolacunna187/tercerRepo](https://github.com/maicolacunna187/tercerRepo)<br>
+5. 📔 Created new repository [maicolacunna187/tercerRepo](https://github.com/maicolacunna187/tercerRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 💰 You can help me by Donating

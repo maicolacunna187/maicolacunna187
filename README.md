@@ -32,11 +32,11 @@
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.0](https://github.com/maicolacunna187/tercerRepo/releases/tag/v0.1.0) in [maicolacunna187/tercerRepo](https://github.com/maicolacunna187/tercerRepo)<br>
-2. ⬆️ Pushed 1 commit(s) to [maicolacunna187/tercerRepo](https://github.com/maicolacunna187/tercerRepo)<br>
-3. ⬆️ Pushed 1 commit(s) to [maicolacunna187/tercerRepo](https://github.com/maicolacunna187/tercerRepo)<br>
-4. ⬆️ Pushed 1 commit(s) to [maicolacunna187/tercerRepo](https://github.com/maicolacunna187/tercerRepo)<br>
-5. 📔 Created new repository [maicolacunna187/tercerRepo](https://github.com/maicolacunna187/tercerRepo)<br>
+1. ⬆️ Pushed 1 commit(s) to [maicolacunna187/PayU-work](https://github.com/maicolacunna187/PayU-work)<br>
+2. ⬆️ Pushed 1 commit(s) to [maicolacunna187/PayU-work](https://github.com/maicolacunna187/PayU-work)<br>
+3. ⬆️ Pushed 1 commit(s) to [maicolacunna187/PayU-work](https://github.com/maicolacunna187/PayU-work)<br>
+4. ⬆️ Pushed 3 commit(s) to [maicolacunna187/PayU-work](https://github.com/maicolacunna187/PayU-work)<br>
+5. ✔️ Closed issue [#5](https://github.com/maicolacunna187/PayU-work/issues/5) in [maicolacunna187/PayU-work](https://github.com/maicolacunna187/PayU-work)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 💰 You can help me by Donating

@@ -32,10 +32,10 @@
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [maicolacunna187/mi-proyecto](https://github.com/maicolacunna187/mi-proyecto)<br>
+1. ⬆️ Pushed 1 commit(s) to [maicolacunna187/mi-proyecto](https://github.com/maicolacunna187/mi-proyecto)<br>
 2. ⬆️ Pushed 1 commit(s) to [maicolacunna187/mi-proyecto](https://github.com/maicolacunna187/mi-proyecto)<br>
 3. ⬆️ Pushed 1 commit(s) to [maicolacunna187/mi-proyecto](https://github.com/maicolacunna187/mi-proyecto)<br>
-4. ⬆️ Pushed 1 commit(s) to [maicolacunna187/mi-proyecto](https://github.com/maicolacunna187/mi-proyecto)<br>
+4. ⬆️ Pushed 2 commit(s) to [maicolacunna187/mi-proyecto](https://github.com/maicolacunna187/mi-proyecto)<br>
 5. ⬆️ Pushed 1 commit(s) to [maicolacunna187/mi-proyecto](https://github.com/maicolacunna187/mi-proyecto)<br>
 <!--RECENT_ACTIVITY:end-->
 

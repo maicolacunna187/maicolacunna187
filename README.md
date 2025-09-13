@@ -32,11 +32,11 @@
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [maicolacunna187/mi-proyecto](https://github.com/maicolacunna187/mi-proyecto)<br>
-2. ⬆️ Pushed 1 commit(s) to [maicolacunna187/mi-proyecto](https://github.com/maicolacunna187/mi-proyecto)<br>
-3. ⬆️ Pushed 1 commit(s) to [maicolacunna187/mi-proyecto](https://github.com/maicolacunna187/mi-proyecto)<br>
-4. ⬆️ Pushed 2 commit(s) to [maicolacunna187/mi-proyecto](https://github.com/maicolacunna187/mi-proyecto)<br>
-5. ⬆️ Pushed 1 commit(s) to [maicolacunna187/mi-proyecto](https://github.com/maicolacunna187/mi-proyecto)<br>
+1. ⬆️ Pushed 1 commit(s) to [maicolacunna187/Clases-del-curso-Python](https://github.com/maicolacunna187/Clases-del-curso-Python)<br>
+2. 📔 Created new repository [maicolacunna187/Clases-del-curso-Python](https://github.com/maicolacunna187/Clases-del-curso-Python)<br>
+3. ⬆️ Pushed 2 commit(s) to [maicolacunna187/mi-proyecto](https://github.com/maicolacunna187/mi-proyecto)<br>
+4. ✔️ Closed issue [#2](https://github.com/maicolacunna187/mi-proyecto/issues/2) in [maicolacunna187/mi-proyecto](https://github.com/maicolacunna187/mi-proyecto)<br>
+5. 🎉 Merged PR [#3](https://github.com/maicolacunna187/mi-proyecto/pull/3) in [maicolacunna187/mi-proyecto](https://github.com/maicolacunna187/mi-proyecto)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 💰 You can help me by Donating

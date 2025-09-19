@@ -32,9 +32,9 @@
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [maicolacunna187/Clases-del-curso-Python](https://github.com/maicolacunna187/Clases-del-curso-Python)<br>
-2. 📔 Created new repository [maicolacunna187/Curso-de-CSS](https://github.com/maicolacunna187/Curso-de-CSS)<br>
-3. ⬆️ Pushed 1 commit(s) to [maicolacunna187/Clases-del-curso-Python](https://github.com/maicolacunna187/Clases-del-curso-Python)<br>
+1. 📔 Created new repository [maicolacunna187/Curso-de-Python-PIP-y-Entornos-Virtuales](https://github.com/maicolacunna187/Curso-de-Python-PIP-y-Entornos-Virtuales)<br>
+2. ⬆️ Pushed 1 commit(s) to [maicolacunna187/Clases-del-curso-Python](https://github.com/maicolacunna187/Clases-del-curso-Python)<br>
+3. 📔 Created new repository [maicolacunna187/Curso-de-CSS](https://github.com/maicolacunna187/Curso-de-CSS)<br>
 4. ⬆️ Pushed 1 commit(s) to [maicolacunna187/Clases-del-curso-Python](https://github.com/maicolacunna187/Clases-del-curso-Python)<br>
 5. ⬆️ Pushed 1 commit(s) to [maicolacunna187/Clases-del-curso-Python](https://github.com/maicolacunna187/Clases-del-curso-Python)<br>
 <!--RECENT_ACTIVITY:end-->

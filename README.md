@@ -32,11 +32,11 @@
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [maicolacunna187/Creaci-n-de-un-CRUD](https://github.com/maicolacunna187/Creaci-n-de-un-CRUD)<br>
-2. ⬆️ Pushed 1 commit(s) to [maicolacunna187/Curso-de-Python-PIP-y-Entornos-Virtuales](https://github.com/maicolacunna187/Curso-de-Python-PIP-y-Entornos-Virtuales)<br>
-3. ⬆️ Pushed 1 commit(s) to [maicolacunna187/Curso-de-Python-PIP-y-Entornos-Virtuales](https://github.com/maicolacunna187/Curso-de-Python-PIP-y-Entornos-Virtuales)<br>
-4. ⬆️ Pushed 1 commit(s) to [maicolacunna187/Curso-de-Python-PIP-y-Entornos-Virtuales](https://github.com/maicolacunna187/Curso-de-Python-PIP-y-Entornos-Virtuales)<br>
-5. ⬆️ Pushed 1 commit(s) to [maicolacunna187/Curso-de-Python-PIP-y-Entornos-Virtuales](https://github.com/maicolacunna187/Curso-de-Python-PIP-y-Entornos-Virtuales)<br>
+1. ⬆️ Pushed undefined commit(s) to [maicolacunna187/Creaci-n-de-un-CRUD](https://github.com/maicolacunna187/Creaci-n-de-un-CRUD)<br>
+2. ⬆️ Pushed undefined commit(s) to [maicolacunna187/Creaci-n-de-un-CRUD](https://github.com/maicolacunna187/Creaci-n-de-un-CRUD)<br>
+3. ⭐ Starred [maicolacunna187/Creaci-n-de-un-CRUD](https://github.com/maicolacunna187/Creaci-n-de-un-CRUD)<br>
+4. ⬆️ Pushed undefined commit(s) to [maicolacunna187/Curso-de-Python-PIP-y-Entornos-Virtuales](https://github.com/maicolacunna187/Curso-de-Python-PIP-y-Entornos-Virtuales)<br>
+5. ⬆️ Pushed undefined commit(s) to [maicolacunna187/Curso-de-Python-PIP-y-Entornos-Virtuales](https://github.com/maicolacunna187/Curso-de-Python-PIP-y-Entornos-Virtuales)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 💰 You can help me by Donating

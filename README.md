@@ -34,7 +34,6 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [maicolacunna187/Patrones-de-Dise-o](https://github.com/maicolacunna187/Patrones-de-Dise-o)<br>
 2. ⭐ Starred [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion)<br>
-3. ⬆️ Pushed undefined commit(s) to [maicolacunna187/Creaci-n-de-un-CRUD](https://github.com/maicolacunna187/Creaci-n-de-un-CRUD)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 💰 You can help me by Donating

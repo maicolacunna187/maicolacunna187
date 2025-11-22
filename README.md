@@ -32,7 +32,6 @@
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [maicolacunna187/Patrones-de-Dise-o](https://github.com/maicolacunna187/Patrones-de-Dise-o)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 💰 You can help me by Donating
